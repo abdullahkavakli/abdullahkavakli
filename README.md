@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Kavakli</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkavakli&label=Profile%20views&color=00ad0c&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'> <a/></p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkavakli&label=Profile%20views&color=blue&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'> <a/></p>  
 
-<p>Hello ,welcome to my GitHub profile. I'm 21 year-old computer science student at Pamukkale University and a Data Scientist. </p>
+<p>Hello ,welcome to my GitHub profile. I'm a 21 year-old computer science student at Pamukkale University and a Data Scientist. </p>
  
-<p>You can reach my works [here](https://www.kaggle.com/abdullahkavakl).</p>
-<p>I woud love to hear feeddbak from you :smile:</p>
+<p>You can reach my works <a href = "https://www.kaggle.com/abdullahkavakl">here</a>.</p>
+<p>I woud love to hear feedbak from you :smile:</p>
 
 ## 🤗 You can reach out
 
