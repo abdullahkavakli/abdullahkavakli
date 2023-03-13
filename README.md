@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Kavakli</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkavakli&label=Profile%20views&color=00ad0c&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'>  <img src="https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet">  <a/></p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkavakli&label=Profile%20views&color=00ad0c&style=flat" alt="altaysimsek" /> <a href='https://findmentor.network/peer/altay-simsek'> <a/></p>  
 
 <p>Hello ,welcome to my GitHub profile. I'm 21 year-old computer science student at Pamukkale University and a Data Scientist. </p>
  
