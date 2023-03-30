@@ -8,24 +8,20 @@
 
 <p>Hello ,welcome to my GitHub profile. I'm a 21 year-old computer science student at Pamukkale University and a Data Scientist. </p>
  
-<p>You can reach my works <a href = "https://www.kaggle.com/abdullahkavakli">here</a>.</p>
+<p>You can reach my works <a href = "abdullahkavakli.com">here</a>.</p>
 <p>I woud love to hear feedbak from you :smile:</p>
 
 ## 🤗 You can reach out
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkavakli)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkavakli/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahkavakli90@gmail.com)](mailto:abdullahkavakli90@gmail.com)
-<!-- [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
 
 
 
 <!--
-**abdullahkavakli/abdullahkavakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
