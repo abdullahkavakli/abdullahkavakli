@@ -8,7 +8,12 @@
 
 <p>Hello ,welcome to my GitHub profile. I'm a 21 year-old computer science student at Pamukkale University and a Data Scientist. </p>
  
-<p>You can reach my works <a href = "https://abdullahkavakli.com">here</a>.</p>
+- 🔭 I’m currently working on Machine Learning.
+
+- 💬 You can reach my works <a href = "https://abdullahkavakli.com">here</a>
+
+
+
 <p>I woud love to hear feedbak from you :smile:</p>
 
 ## 🤗 You can reach out
