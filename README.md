@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahkavakli&label=Profile%20views&color=blue&style=flat" alt="abdullahkavakli" /> <a href='https://findmentor.network/peer/abdullahkavakli'> <a/></p>  
 
-<p>Hello ,welcome to my GitHub profile. My name is Abdullah KAVAKLI. I am a data scientist and have knowledge in DevOps and machine learning. Skilled in implementing Linux projects on the cloud, feature engineering, and various machine learning algorithms. Developed successful machine learning models with high accuracy scores. Experienced in NLP techniques for sentiment analysis. Optimized algorithms for faster processing and am passionate about using data science to solve complex problems and help businesses make informed decisions. I'm currently pursuing a master's degree in computer engineering at Istanbul Technical University, a prestigious university in Turkey. </p>
+<p>Hello ,welcome to my GitHub profile. My name is Abdullah KAVAKLI. I am a Research Assistant and a Data Scientist with knowledge in Machine Learning and Big Data Analytics. Skilled in implementing Linux projects on the cloud, feature engineering, and various machine learning algorithms. Developed successful machine learning models with high accuracy scores. Experienced in NLP techniques for sentiment analysis. Optimized algorithms for faster processing and am passionate about using data science to solve complex problems and help businesses make informed decisions. I’m currently pursuing a master’s degree in Computer Engineering at Istanbul Technical University, one of Turkey’s most prestigious universities. </p>
  
 - 🔭 I’m currently working on Machine Learning.
 
