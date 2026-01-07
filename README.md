@@ -22,7 +22,7 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkavakli)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkavakli/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahkavakli90@gmail.com)](abdullahkavakli90)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahkavakli90gmail.com)](abdullahkavakli90)
 
 
 ---
