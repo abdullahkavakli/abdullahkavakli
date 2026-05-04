@@ -14,7 +14,7 @@
 
 
 
-<p>I woud love to hear feedbak from you :smile:</p>
+<p>I woud love to hear feedbak from you </p>
 
 ##  You can reach out
 
