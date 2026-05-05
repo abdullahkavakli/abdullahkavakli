@@ -13,13 +13,6 @@
 
 -  You can reach my works <a href = "https://abdullahkavakli.com">here</a>
 
-
-
-<p>I woud love to hear feedbak from you </p>
-
-##  You can reach out
-
-
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkavakli)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkavakli/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdullahkavakli.90gmail.com)](abdullahkavakli.90gmail.com)
